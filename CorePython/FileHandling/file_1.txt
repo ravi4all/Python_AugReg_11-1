@@ -1,0 +1,7 @@
+Ram 12
+Shyam 18
+Gopal 17
+Akash 22
+Ajay 23
+Sumit 21
+Akshay 22
